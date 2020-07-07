@@ -1,5 +1,5 @@
 # files_copy
-copy files wintin file-list file
+copy files wintin file-list file, the file name is not necessary to be comleted，just be substring of origin filename is ok.
 
 ## Usage
 
