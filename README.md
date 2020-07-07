@@ -1,7 +1,7 @@
 # files_copy
 copy files wintin file-list file
 
-## Uage
+## Usage
 
 <pre>
 python3 -m fcp -h
