@@ -47,3 +47,8 @@ Progress: |=====================================================================
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Reference
+
+[selective_copy](https://github.com/pltnk/selective_copy)
+
